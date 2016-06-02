@@ -3,9 +3,12 @@ ___
 :beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on Github with a [contribution via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRP5WBD8CT8EW) - this allows me to write cool projects like this in my personal time and hopefully help you or your business. 
 ___
 
-MailWizz nginx example with search-engine friendly URLs - this has been tested with Kayako 1.3.6.x running on CentOS 7 with nginx/1.6.3
+MailWizz nginx example with search-engine friendly URLs - this has been tested with MailWizz 1.3.6.x running on CentOS 7 with nginx/1.6.3
 
 The nginx configuration includes:
+- SSL and non SSL config
+- Support for tracking domains
+- SSL configuration with SSL stapling and tuning
 - Gzip compression
 - Security configuration
  - Turn off access to hidden files and sensitive context
