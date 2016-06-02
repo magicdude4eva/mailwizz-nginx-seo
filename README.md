@@ -7,6 +7,7 @@ MailWizz nginx example with search-engine friendly URLs - this has been tested w
 
 The nginx configuration includes:
 - SSL and non SSL config
+- PHP FPM
 - Support for tracking domains
 - SSL configuration with SSL stapling and tuning
 - Gzip compression
@@ -21,3 +22,12 @@ The nginx configuration includes:
 - Cache control for media images, dynamic data and CSS/JavaScript
 
 Included MySQL configuration and php.ini settings for a MailWizz system running on CentOS7, MySQL 5.7.12, nginx on a 4-core, 10GB single-server.
+
+Note: PHP-FPM by default writes sessions into the /var/lib/php directory and I personally do not like assigning nginx permissions to it (since MailWizz stores session info). I have therefore adjusted PHP-FPM config to have it's own directory.
+
+You will need to run this (or adjust /etc/php-fpm.d/www.conf):
+```
+mkdir -p /var/lib/nginx/session
+mkdir -p /var/lib/nginx/wsdlcache
+chown -R nginx:nginx /var/lib/nginx
+```
