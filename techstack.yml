@@ -1,11 +1,11 @@
 repo_name: magicdude4eva/mailwizz-nginx-seo
-report_id: c23fc3a2392c8f8d2db285d02196650d
+report_id: 5a7d01a1c3880d71f0f92550aaeeadc6
 repo_type: Public
-timestamp: '2023-11-09T17:27:42+00:00'
+timestamp: '2023-12-14T09:50:45+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: master
-detected_tools_count: 3
+detected_tools_count: 4
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -37,3 +37,12 @@ tools:
   detection_source: etc/nginx/nginx.conf
   last_updated_by: Gerd Naschenweng
   last_updated_on: 2016-06-02 12:25:21.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: var/www/html/mailwizz_static/error/404.html
+  last_updated_by: Gerd Naschenweng
+  last_updated_on: 2016-06-02 12:29:34.000000000 Z
