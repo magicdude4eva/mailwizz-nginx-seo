@@ -1,7 +1,8 @@
 repo_name: magicdude4eva/mailwizz-nginx-seo
-report_id: 5a7d01a1c3880d71f0f92550aaeeadc6
+report_id: c23fc3a2392c8f8d2db285d02196650d
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:50:45+00:00'
+timestamp: '2024-01-04T15:09:18+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/magicdude4eva/mailwizz-nginx-seo
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/magicdude4eva/mailwizz-nginx-seo
   detection_source: Repo Metadata
 - name: NGINX
   description: A high performance free open source web server powering busiest sites
@@ -34,6 +37,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/magicdude4eva/mailwizz-nginx-seo/blob/master/etc/nginx/nginx.conf
   detection_source: etc/nginx/nginx.conf
   last_updated_by: Gerd Naschenweng
   last_updated_on: 2016-06-02 12:25:21.000000000 Z
@@ -43,6 +47,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/magicdude4eva/mailwizz-nginx-seo/blob/master/var/www/html/mailwizz_static/error/404.html
   detection_source: var/www/html/mailwizz_static/error/404.html
   last_updated_by: Gerd Naschenweng
   last_updated_on: 2016-06-02 12:29:34.000000000 Z
