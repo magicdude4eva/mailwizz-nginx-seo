@@ -63,20 +63,25 @@ OCSP Response Data:
 
 
 ## Donations are always welcome
-:beer: **Please support me**: If the above helped you in any way, then [follow me on Twitter](https://twitter.com/gerdnaschenweng) or send me some coins: 
+
+[paypal]: https://paypal.me/GerdNaschenweng
+
+🍻 **Support my work**  
+All my software is free and built in my personal time. If it helps you or your business, please consider a small donation via [PayPal][paypal] — it keeps the coffee ☕ and ideas flowing!
+
+💸 **Crypto Donations**  
+You can also send crypto to one of the addresses below:
+
 ```
-(CRO)    cro1w2kvwrzp23aq54n3amwav4yy4a9ahq2kz2wtmj (Memo: 644996249) or 0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C (Cronos)
-(USDC)   0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C
-(BTC)    3628nqihXvw2RXsKtTR36dN6WvYzaHyr52
-(ETH)    0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C
-(BAT)    0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C
-(LTC)    MQxRAfhVU84KDVUqnZ5eV9MGyyaBEcQeDf
-(Ripple) rKV8HEL3vLc6q9waTiJcewdRdSFyx67QFb (Tag: 1172047832)
-(XLM)    GB67TJFJO3GUA432EJ4JTODHFYSBTM44P4XQCDOFTXJNNPV2UKUJYVBF (Memo ID: 1406379394)
+(CRO)   0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C (Cronos)  
+(USDC)  0xb83c3Fe378F5224fAdD7a0f8a7dD33a6C96C422C (ERC20)  
+(ETH)   0xfc316ba7d8dc325250f1adfafafc320ad75d87c0  
+(BNB)   0xfc316ba7d8dc325250f1adfafafc320ad75d87c0
+(BTC)   bc1q24fuw84l6whm20umlr56nvqjn908sec8pavk3z  
+Crypto.com PayString: magicdude$paystring.crypto.com
 ```
 
-Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/join#DWPXKG6E) and signup to [Crypto.com for a staking and free Crypto debit card](https://crypto.com/app/ref6ayzqvp).
-
-Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Sign up with [Coinbase](https://www.coinbase.com/join/nasche_x) and **instantly get $10 in BTC**. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
-
-If you have no crypto, follow me at least on [Twitter](https://twitter.com/gerdnaschenweng).
+🧾 **Recommended Platforms**  
+- 👉 [Curve.com](https://www.curve.com/join#DWPXKG6E): Add your Crypto.com card to Apple Pay  
+- 🔐 [Crypto.com](https://crypto.com/app/ref6ayzqvp): Stake and get your free Crypto Visa card  
+- 📈 [Binance](https://accounts.binance.com/register?ref=13896895): Trade altcoins easily
